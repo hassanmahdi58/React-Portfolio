@@ -54,3 +54,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Mock-Up
+
+![Screenshot (149)](https://user-images.githubusercontent.com/94930434/169890111-aecae7d6-0ecb-4958-acac-a693d373ce55.png)
+![Screenshot (150)](https://user-images.githubusercontent.com/94930434/169890124-bb91205f-4df9-45f1-92c2-66b2cdb12fce.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/94930434/169890129-2b6a7845-b720-4718-87a0-f164cce3885b.png)
+
