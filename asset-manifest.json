@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0c167100.css",
+    "main.js": "/React-Portfolio/static/js/main.0adfab05.js",
+    "static/js/415.4e86b91b.chunk.js": "/React-Portfolio/static/js/415.4e86b91b.chunk.js",
+    "static/js/787.d2cf45ec.chunk.js": "/React-Portfolio/static/js/787.d2cf45ec.chunk.js",
+    "static/media/dayplanner.gif": "/React-Portfolio/static/media/dayplanner.5b3f62cdcc4cafa34102.gif",
+    "static/media/cityhealth.png": "/React-Portfolio/static/media/cityhealth.1424280fc923aec81518.png",
+    "static/media/about.png": "/React-Portfolio/static/media/about.fa1fa78351af19fa8c2f.png",
+    "static/media/logo.png": "/React-Portfolio/static/media/logo.f1b51c27d2fee8919b34.png",
+    "static/media/codeEditor.png": "/React-Portfolio/static/media/codeEditor.fd6d1fa8ad59a4ecafae.png",
+    "static/media/ecommerce.png": "/React-Portfolio/static/media/ecommerce.5abf637f3db91696d073.png",
+    "static/media/tech.png": "/React-Portfolio/static/media/tech.75d78d65ab8074bbc5cf.png",
+    "static/media/home-bg.jpg": "/React-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/note-app.png": "/React-Portfolio/static/media/note-app.524a03bbd58763d4d750.png",
+    "static/media/cv.docx": "/React-Portfolio/static/media/cv.354365c895325dcacc56.docx",
+    "index.html": "/React-Portfolio/index.html",
+    "main.0c167100.css.map": "/React-Portfolio/static/css/main.0c167100.css.map",
+    "main.0adfab05.js.map": "/React-Portfolio/static/js/main.0adfab05.js.map",
+    "415.4e86b91b.chunk.js.map": "/React-Portfolio/static/js/415.4e86b91b.chunk.js.map",
+    "787.d2cf45ec.chunk.js.map": "/React-Portfolio/static/js/787.d2cf45ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c167100.css",
+    "static/js/main.0adfab05.js"
+  ]
+}
