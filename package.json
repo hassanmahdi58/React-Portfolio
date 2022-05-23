@@ -1,6 +1,6 @@
 {
+  "name": "React-Porfolio",
   "homepage": "https://github.com/hassanmahdi58/React-Porfolio",
-  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
