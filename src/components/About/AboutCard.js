@@ -10,18 +10,17 @@ function AboutCard() {
           <p style={{ textAlign: "justify middle", fontSize : 25}}>
             Hi Everyone, I am <span className="purple">Hassan Abdirahman</span>
            
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a junior Full Stack Developer 
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, am photographer and graphic designer!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Football
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
+              <ImPointRight /> Reading books
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling

@@ -1,16 +1,16 @@
 {
-  "name": "React-Porfolio",
-  "homepage": "https://hassanmahdi58.github.io/React-Porfolio/",
+  "name": "React-Portfolio",
+  "homepage": "https://hassanmahdi58.github.io/React-Portfolio/",
   "version": "0.1.0",
   "private": "true",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hassanmahdi58/React-Porfolio"
+    "url": "git+https://github.com/hassanmahdi58/React-Portfolio"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hassanmahdi58/React-Porfolio/issues"
+    "url": "https://github.com/hassanmahdi58/React-Portfolio/issues"
   },
   "dependencies": {
     "@babel/core": "^7.16.0",
