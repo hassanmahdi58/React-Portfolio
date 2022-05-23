@@ -2,7 +2,15 @@
   "name": "React-Porfolio",
   "homepage": "https://github.com/hassanmahdi58/React-Porfolio",
   "version": "0.1.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanmahdi58/React-Porfolio"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassanmahdi58/React-Porfolio/issues"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
