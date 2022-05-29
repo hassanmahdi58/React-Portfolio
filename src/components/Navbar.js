@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import logo from "../Assets/logo.png";
 import { Link } from "react-router-dom";
-import cv from "../Assets/cv.docx"
+import cv from "../Assets/resume.pdf"
 
 
 import {
